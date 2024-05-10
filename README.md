@@ -1,4 +1,4 @@
-修复bug后的DLLHijacker.py和劫持Windows x64的dbghelp.ll的VS2022项目  
+修复bug后的DLLHijacker.py和劫持Windows x64的dbghelp.dll的VS2022项目  
 DLLHijacker.py after fixing the bug and VS2022 project that hijacks dbghelp.dll for Windows x64  
 
 Usage:   
